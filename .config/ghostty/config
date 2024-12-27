@@ -1,0 +1,30 @@
+# Visual
+
+# ghostty +list-themes
+theme = GruvboxDark
+
+# ghostty +list-fonts
+# font-family = 
+
+background-opacity = 0.8
+background-blur-radius = 20
+bold-is-bright = true
+cursor-style = block
+font-size = 14
+macos-titlebar-style = transparent
+macos-titlebar-proxy-icon = hidden
+window-padding-x = 10
+window-padding-y = 5
+
+# Keybinds
+keybind = cmd+backspace=text:\x15
+
+# Behaviours
+auto-update = check
+clipboard-trim-trailing-spaces = true
+clipboard-paste-protection = true
+focus-follows-mouse = true
+link-url = true
+macos-option-as-alt = true
+macos-auto-secure-input = true
+macos-secure-input-indication = true
